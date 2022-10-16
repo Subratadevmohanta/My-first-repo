@@ -1,3 +1,16 @@
 p{
     color: brown;
+    
+}
+
+h1{
+    text-align: center;
+}
+h1{
+    background-color: rgb(227, 8, 8);
+}
+
+h2{
+text-align: center;
+margin: auto;
 }
